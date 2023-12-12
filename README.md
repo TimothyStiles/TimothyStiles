@@ -1,4 +1,4 @@
-### :wave: Hello fellow Homo Sapiens :walking:
+### 👋 Hello fellow Homo Sapiens 🚶
 
 I'm Tim and I'm creating [_Poly_](https://github.com/TimothyStiles/poly). The world's greatest package for engineering organisms. Check it out and [sponsor me](https://github.com/sponsors/TimothyStiles).
 
